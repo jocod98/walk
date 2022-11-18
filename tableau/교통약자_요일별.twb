@@ -889,8 +889,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='11' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97630' id='10' param='vert' type-v2='layout-flow' w='98666' x='667' y='1185'>
+            <zone h='100000' id='27' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97630' id='26' param='vert' type-v2='layout-flow' w='98666' x='667' y='1185'>
                 <zone fixed-size='280' h='97630' id='5' is-fixed='true' name='요일별' w='98666' x='667' y='1185'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
